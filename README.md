@@ -58,3 +58,5 @@ Place your final Excel files manually in `data/processed/` using these exact nam
 ## Metadata and documentation
 
 Additional benchmark metadata are provided in `data/metadata/`, and manuscript-facing availability notes are provided in `docs/`.
+
+Repository archive release updated for the synchronization.
