@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "WoodSciForecast-Bench"
+type: software
+version: "v1.0.0"
+doi: "10.5281/zenodo.19361332"
+url: "https://github.com/drhakanaydogan/WoodSciForecast-Bench"
+repository-code: "https://github.com/drhakanaydogan/WoodSciForecast-Bench"
+license: "MIT"
+authors:
+  - family-names: "Aydogan"
+    given-names: "Hakan"
+    orcid: "https://orcid.org/0000-0001-9482-9888"
+abstract: >
+  WoodSciForecast-Bench is a regime-aware framework for sustainable and resilient
+  monitoring of wood-related production and trade systems in Europe. The repository
+  provides processed benchmark files and reproducibility code for comparative
+  forecasting experiments involving classical baselines, pooled machine learning,
+  and deep-learning challengers under chronological split design and fixed-origin
+  block evaluation.
+keywords:
+  - "resilient monitoring"
+  - "sustainable manufacturing"
+  - "wood-related value chains"
+  - "predictive decision support"
+  - "structural change"
+  - "pooled machine learning"
+preferred-citation:
+  type: article
+  title: "WoodSciForecast-Bench: A Regime-Aware Framework for Sustainable and Resilient Monitoring of Wood-Related Production and Trade Systems"
+  authors:
+    - family-names: "Aydogan"
+      given-names: "Hakan"
+      orcid: "https://orcid.org/0000-0001-9482-9888"
+  doi: "10.5281/zenodo.19361332"
